@@ -1,0 +1,25 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+:root {
+  --primary: #f00;
+  --yt-channel-line-height: 3.2rem;
+  --yt-navbar-title-line-height: 2.6rem;
+  --yt-subheadline-line-height: 2.2rem;
+  --yt-link-line-height: 2rem;
+  --yt-thumbnail-attribution-font-size: 1.2rem;
+  --yt-thumbnail-attribution-line-height: 1.8rem;
+  --yt-user-comment-line-height: 2rem;
+  --yt-guide-highlight-line-height: 2rem;
+  --yt-caption-font-size: 1.2rem;
+  --yt-caption-line-height: 1.8rem;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.6rem;
+}
