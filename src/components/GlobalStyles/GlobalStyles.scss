@@ -3,6 +3,7 @@
 
 :root {
   --primary: #f00;
+  --yt-header-height: 56px;
   --yt-channel-line-height: 3.2rem;
   --yt-navbar-title-line-height: 2.6rem;
   --yt-subheadline-line-height: 2.2rem;
@@ -17,6 +18,8 @@
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 html {
